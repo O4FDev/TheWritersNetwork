@@ -1,0 +1,184 @@
+*{
+font-family: 'Text Me One', sans-serif;
+}
+	
+
+
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #fff;
+}
+
+
+
+#pic1{
+	margin-top:15px;
+	margin-left: 20px;
+	width: 50px;
+	height:50px;
+}
+
+/*.nav1 {
+	background-color:#66ff66;
+	border-radius:5px;
+	
+}
+
+.nav1 nav{
+	width: 100%;
+	height: 80px;
+	line-height: 80px;
+}
+
+.nav1 nav ul{
+	float: right;
+	margin-right: 30px;
+}
+
+.nav1 nav ul li{
+	list-style-type: none;
+	display: inline-block;
+
+}
+
+.nav1 nav ul li:hover{
+	background-color:green;
+}/**/
+
+ a:link{
+	text-decoration: none;
+	color: #fff;
+	padding: 30px;
+}
+
+ a:visited{
+	color: #fff;
+}
+
+.lista  a:link{
+	text-decoration: none;
+	color: navy;
+	font-size: 30px;
+	padding: 30px;
+}
+
+.lista a:visited{
+	color: navy;
+}
+
+
+button{
+	width: 100px;
+	height: 50px;
+	margin-left: 10px;
+	background-color:#ccffcc;
+	
+}
+.title{
+	padding-left:10px;
+	margin-left:10px;
+	font-size: 25px;
+	width:90%;
+	height: 30px;
+	resize: none;
+	background-color:#ccffcc;
+
+}
+
+.message{
+    color:black;
+	padding-left:10px;
+	margin-left:10px;
+	width:90%;
+	height: 700px;
+	resize: none;
+	background-color:#ccffcc;
+
+	
+}
+
+h1{
+	padding:10px;
+}
+
+.title1{
+	margin-left:5px;
+	text-align:center;
+	padding:10px;
+	color:green;
+	background-color:#0003;
+	width:250px;
+	border-radius:5px;
+}
+
+
+
+.title2{
+	margin-left:35%;
+	text-align:center;
+	padding:5px;
+	color:green;
+	background-color:#0003;
+	width:450px;
+	border-radius:5px;
+}
+
+.title3{
+	margin-left:5px;
+	text-align:center;
+	padding:10px;
+	color:green;
+	background-color:#0003;
+	width:250px;
+	border-radius:5px;
+}
+
+.title4{
+	margin-left:5px;
+	padding:10px;
+	color:green;
+	background-color:#0003;
+	width:200px;
+	border-radius:5px;
+}
+
+.paratext{
+	background-color:#0001;
+	text-align:center;
+	padding:10px;
+	color:#61B329;
+	border-radius:5px;
+}
+
+.paratext2{
+	background-color:#0001;
+	text-align:center;
+	width:510px;
+	padding:10px;
+	color:#61B329;
+	border-radius:5px;
+}
+
+ul{
+	color:#61B329;
+}
+
+hr{
+color:green;
+}
+
+
+.colo{
+	column-count:2;
+	
+
+
+}
+
+
+
+
+
+
+
