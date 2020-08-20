@@ -1,2 +1,1 @@
-# TheWritersNetwork
-This is a compilation of the writer networks source files. 
+<h1 style="align: centre> Introduction </h1>
