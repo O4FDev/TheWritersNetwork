@@ -2,6 +2,6 @@
 
 | Table Of Contents  |
 | ------------- |
-||
+| |
 | Content Cell  |
 | Content Cell  |
